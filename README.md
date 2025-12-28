@@ -1,3 +1,3 @@
 ```markdown
-# SORA / DyuAPI ComfyUI 插件
+# SORA / DyuAPI ComfyUI 节点
 ```
